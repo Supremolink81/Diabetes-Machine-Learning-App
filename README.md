@@ -1,4 +1,4 @@
-# Diabetes-Machine-Learning-App
+# PyDiabetic
 
 A basic machine learning web app designed to predict if someone has diabetes 
 given their health information.
